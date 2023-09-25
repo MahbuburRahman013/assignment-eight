@@ -52,7 +52,7 @@ console.log(localData)
 
     return (
         <div className="flex justify-center items-center">
-            <div className="w-[500px]">
+            <div className="md:w-[500px] lg:w-[500px] w-[300px]">
            <canvas ref={chartRef} />
         </div>
         </div>

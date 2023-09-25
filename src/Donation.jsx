@@ -17,14 +17,14 @@ const Donation = () => {
           <div>
             <div>
             {
-                isTrue? <div className="grid grid-cols-2 container mx-auto mt-9 gap-10">
+                isTrue? <div className="grid px-6 lg:px-0 grid-cols-1 lg:grid-cols-2 container mx-auto mt-9 gap-10">
                 {data.slice(0,4).map((donation, index) => (
                     <DonationCardLocal
                       donation={donation}
                       key={index}
                     ></DonationCardLocal>
                   ))}</div>:
-                  <div className="grid grid-cols-2 container mx-auto mt-9 gap-10">
+                  <div className="grid px-6 lg:px-0 grid-cols-1 lg:grid-cols-2 container mx-auto mt-9 gap-10">
                       {data.map((donation, index) => (
                     <DonationCardLocal
                       donation={donation}

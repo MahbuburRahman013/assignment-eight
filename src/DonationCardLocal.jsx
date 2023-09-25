@@ -6,8 +6,8 @@ const DonationCardLocal = ({donation}) => {
     return (
         <div className="rounded-lg" style={{backgroundColor: Card_bg_Color}}>
             <div className="flex gap-x-7">
-            <img src={Picture} alt="" />
-            <div className="justify-center flex-col flex">
+            <img className="w-[50%]" src={Picture} alt="" />
+            <div className="justify-center flex-col flex py-4 lg:py-0">
               <h1 className="w-fit px-3 rounded-md" style={{backgroundColor: Category_bg_Color,color: Text_Button_bg_Color}}>{Category}</h1>
               <h1 className="text-xl font-semibold my-1">{Title}</h1>
               <p className="text-xl" style={{color: Text_Button_bg_Color}}>${Price}</p>

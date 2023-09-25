@@ -9,7 +9,7 @@ const CardDonate = ({card}) => {
         <div>
            <Link to={`/module/${id}`}>
            <div className='rounded-lg' style={{backgroundColor: Card_bg_Color}}>
-                <img src={Picture} alt="" />
+                <img className='w-full' src={Picture} alt="" />
                 <div className='px-7 py-5'>
                 <p className='w-fit px-3 rounded' style={{backgroundColor: Category_bg_Color,color:Text_Button_bg_Color}}>{Category}</p>
                 <h1 className='text-base font-semibold' style={{color:Text_Button_bg_Color}}>{Title}</h1>
