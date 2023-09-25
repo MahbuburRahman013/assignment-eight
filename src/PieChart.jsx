@@ -4,19 +4,20 @@ const PieChart = () => {
      
      const chartRef = useRef(null)
      const chartInstance = useRef(null)
-     const [localData,setLocalData] = useState([])
-     const [allData,setAllData] = useState([])
+     const [localData,setLocalData] = useState()
+     const [allData,setAllData] = useState()
+    
 
 useEffect(()=>{
     fetch('donation.json')
     .then(res=> res.json())
-    .then(data=> setAllData(data))
+    .then(data=> data ? setAllData(data.length) : setAllData(12))
 },[])
 
 useEffect(()=>{
     const dataStr = localStorage.getItem('data')
     const dataL = JSON.parse(dataStr);
-    setLocalData(dataL)
+   dataL ? setLocalData(dataL.length) : setAllData(0)
 },[])
 
 console.log(localData)
@@ -33,7 +34,7 @@ console.log(localData)
                     labels: ['Your Donation', 'Total Donation'],
                     datasets: [
                         {
-                            data: [localData.length , allData.length],
+                            data: [localData, allData],
                             backgroundColor: [
                               '#ff4848',
                               '#50e750',
@@ -48,7 +49,7 @@ console.log(localData)
                     chartInstance.current.destroy()
                 }
                }
-     },[allData.length,localData.length])
+     },[localData, allData])
 
     return (
         <div className="flex justify-center items-center">
