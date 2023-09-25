@@ -9,6 +9,7 @@ import Home from './Home/Home';
 import Layout from './Layout/Layout';
 import CardDetails from './CardDetails';
 import Donation from './Donation';
+import PieChart from './PieChart';
 const router = createBrowserRouter([
   {
     path: "/",
@@ -27,6 +28,10 @@ const router = createBrowserRouter([
       {
         path: '/Donation',
         element: <Donation></Donation>
+      },
+      {
+        path:'/Statistics',
+        element: <PieChart></PieChart>
       }
     ]
   },
