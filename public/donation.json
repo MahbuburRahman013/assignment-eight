@@ -1,0 +1,135 @@
+[
+    {
+      "Picture": "https://i.ibb.co/3RLMx6g/Education.png",
+      "Title": "School Supplies for Students",
+      "Category": "Education",
+      "Category_bg_Color": "#0052ff78",
+      "Card_bg_Color": "#0052FF26",
+      "Text_Button_bg_Color": "#023cb6",
+      "Description": "Help provide essential school supplies to underprivileged students.",
+      "Price": 15,
+      "id": 1 
+    },
+    {
+      "Picture": "https://i.ibb.co/g3DzDXg/Food.png",
+      "Title": "Feeding the Hungry",
+      "Category": "Food",
+      "Category_bg_Color": "#ff5733d1",
+      "Card_bg_Color": "#ff55339e",
+      "Text_Button_bg_Color": "#d22401",
+      "Description": "Support food banks and provide meals to those in need.",
+      "Price": 20,
+      "id": 2
+    },
+    {
+      "Picture": "https://i.ibb.co/599g4dJ/Health.png",
+      "Title": "Medical Research Funding",
+      "Category": "Health",
+      "Category_bg_Color": "#fa943dc2",
+      "Card_bg_Color": "#F5CBA7",
+      "Text_Button_bg_Color": "#9d6d44",
+      "Description": "Contribute to medical research to find cures and treatments for diseases.",
+      "Price": 30,
+      "id": 3
+    },
+    {
+      "Picture": "https://i.ibb.co/yXNX7qX/Clothing.png",
+      "Title": "Women's Dress",
+      "Category": "Clothing",
+      "Category_bg_Color": "#facd18d6",
+      "Card_bg_Color": "#F7DC6F",
+      "Text_Button_bg_Color": "#9e7f03",
+      "Description": "Stay fashionable with this elegant women's dress.",
+      "Price": 25,
+      "id": 4
+    },
+    {
+      "Picture": "https://i.ibb.co/3RLMx6g/Education.png",
+      "Title": "School Supplies for Students",
+      "Category": "Education",
+      "Category_bg_Color": "#0052ff78",
+      "Card_bg_Color": "#0052FF26",
+      "Text_Button_bg_Color": "#023cb6",
+      "Description": "Help provide essential school supplies to underprivileged students.",
+      "Price": 15,
+      "id": 5
+    },
+    {
+      "Picture": "https://i.ibb.co/g3DzDXg/Food.png",
+      "Title": "Feeding the Hungry",
+      "Category": "Food",
+      "Category_bg_Color": "#ff5733d1",
+      "Card_bg_Color": "#ff55339e",
+      "Text_Button_bg_Color": "#d22401",
+      "Description": "Support food banks and provide meals to those in need.",
+      "Price": 20,
+      "id": 6
+    },
+    {
+      "Picture": "https://i.ibb.co/599g4dJ/Health.png",
+      "Title": "Medical Research Funding",
+      "Category": "Health",
+      "Category_bg_Color": "#fa943dc2",
+      "Card_bg_Color": "#F5CBA7",
+      "Text_Button_bg_Color": "#9d6d44",
+      "Description": "Contribute to medical research to find cures and treatments for diseases.",
+      "Price": 30,
+      "id": 7
+    },
+    {
+      "Picture": "https://i.ibb.co/yXNX7qX/Clothing.png",
+      "Title": "Women's Dress",
+      "Category": "Clothing",
+      "Category_bg_Color": "#facd18d6",
+      "Card_bg_Color": "#F7DC6F",
+      "Text_Button_bg_Color": "#9e7f03",
+      "Description": "Stay fashionable with this elegant women's dress.",
+      "Price": 25,
+      "id": 8
+    },
+    {
+      "Picture": "https://i.ibb.co/3RLMx6g/Education.png",
+      "Title": "School Supplies for Students",
+      "Category": "Education",
+      "Category_bg_Color": "#0052ff78",
+      "Card_bg_Color": "#0052FF26",
+      "Text_Button_bg_Color": "#023cb6",
+      "Description": "Help provide essential school supplies to underprivileged students.",
+      "Price": 15,
+      "id": 9
+    },
+    {
+      "Picture": "https://i.ibb.co/g3DzDXg/Food.png",
+      "Title": "Feeding the Hungry",
+      "Category": "Food",
+      "Category_bg_Color": "#ff5733d1",
+      "Card_bg_Color": "#ff55339e",
+      "Text_Button_bg_Color": "#d22401",
+      "Description": "Support food banks and provide meals to those in need.",
+      "Price": 20,
+      "id": 10
+    },
+    {
+      "Picture": "https://i.ibb.co/599g4dJ/Health.png",
+      "Title": "Medical Research Funding",
+      "Category": "Health",
+      "Category_bg_Color": "#fa943dc2",
+      "Card_bg_Color": "#F5CBA7",
+      "Text_Button_bg_Color": "#9d6d44",
+      "Description": "Contribute to medical research to find cures and treatments for diseases.",
+      "Price": 30,
+      "id": 11
+    },
+    {
+      "Picture": "https://i.ibb.co/yXNX7qX/Clothing.png",
+      "Title": "Women's Dress",
+      "Category": "Clothing",
+      "Category_bg_Color": "#facd18d6",
+      "Card_bg_Color": "#F7DC6F",
+      "Text_Button_bg_Color": "#9e7f03",
+      "Description": "Stay fashionable with this elegant women's dress.",
+      "Price": 25,
+      "id": 12
+    }
+  ]
+  
