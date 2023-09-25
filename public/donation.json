@@ -6,7 +6,7 @@
       "Category_bg_Color": "#0052ff78",
       "Card_bg_Color": "#0052FF26",
       "Text_Button_bg_Color": "#023cb6",
-      "Description": "Help provide essential school supplies to underprivileged students.",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": 15,
       "id": 1 
     },
@@ -15,9 +15,9 @@
       "Title": "Feeding the Hungry",
       "Category": "Food",
       "Category_bg_Color": "#ff5733d1",
-      "Card_bg_Color": "#ff55339e",
+      "Card_bg_Color": "#ff9681ad",
       "Text_Button_bg_Color": "#d22401",
-      "Description": "Support food banks and provide meals to those in need.",
+      "Description": "Food is a basic human necessity, yet millions of people around the world go to bed hungry every night. This stark reality underscores the importance of food donation, a compassionate and impactful practice that addresses hunger and food insecurity. In this comprehensive exploration, we'll delve into the profound significance of food donation, its far-reaching effects on individuals and communities, and how it serves as a beacon of hope for a better, more equitable world.",
       "Price": 20,
       "id": 2
     },
@@ -28,7 +28,7 @@
       "Category_bg_Color": "#fa943dc2",
       "Card_bg_Color": "#F5CBA7",
       "Text_Button_bg_Color": "#9d6d44",
-      "Description": "Contribute to medical research to find cures and treatments for diseases.",
+      "Description": "Health is a universal human right, yet millions of individuals worldwide lack access to adequate healthcare. This poignant reality underscores the profound significance of health donations, a benevolent practice that plays a vital role in addressing medical disparities and bringing hope to those in need. In this comprehensive exploration, we will delve into the immense impact of health donations, the far-reaching effects they have on individuals and communities, and how they serve as a beacon of healing and compassion in a world marked by health inequalities.",
       "Price": 30,
       "id": 3
     },
@@ -39,7 +39,7 @@
       "Category_bg_Color": "#facd18d6",
       "Card_bg_Color": "#F7DC6F",
       "Text_Button_bg_Color": "#9e7f03",
-      "Description": "Stay fashionable with this elegant women's dress.",
+      "Description": "Clothing is more than just fabric; it is a fundamental human need that provides warmth, dignity, and self-expression. Yet, millions of people worldwide struggle to access adequate clothing. This stark reality highlights the profound significance of clothing donations, a compassionate practice that not only addresses basic needs but also restores a sense of dignity and belonging. In this comprehensive exploration, we will delve into the immense impact of clothing donations, their far-reaching effects on individuals and communities, and how they serve as a source of warmth, comfort, and hope in a world marked by clothing disparities.",
       "Price": 25,
       "id": 4
     },
@@ -50,7 +50,7 @@
       "Category_bg_Color": "#0052ff78",
       "Card_bg_Color": "#0052FF26",
       "Text_Button_bg_Color": "#023cb6",
-      "Description": "Help provide essential school supplies to underprivileged students.",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": 15,
       "id": 5
     },
@@ -59,9 +59,9 @@
       "Title": "Feeding the Hungry",
       "Category": "Food",
       "Category_bg_Color": "#ff5733d1",
-      "Card_bg_Color": "#ff55339e",
+      "Card_bg_Color": "#ff9681ad",
       "Text_Button_bg_Color": "#d22401",
-      "Description": "Support food banks and provide meals to those in need.",
+      "Description": "Food is a basic human necessity, yet millions of people around the world go to bed hungry every night. This stark reality underscores the importance of food donation, a compassionate and impactful practice that addresses hunger and food insecurity. In this comprehensive exploration, we'll delve into the profound significance of food donation, its far-reaching effects on individuals and communities, and how it serves as a beacon of hope for a better, more equitable world.",
       "Price": 20,
       "id": 6
     },
@@ -72,7 +72,7 @@
       "Category_bg_Color": "#fa943dc2",
       "Card_bg_Color": "#F5CBA7",
       "Text_Button_bg_Color": "#9d6d44",
-      "Description": "Contribute to medical research to find cures and treatments for diseases.",
+      "Description": "Health is a universal human right, yet millions of individuals worldwide lack access to adequate healthcare. This poignant reality underscores the profound significance of health donations, a benevolent practice that plays a vital role in addressing medical disparities and bringing hope to those in need. In this comprehensive exploration, we will delve into the immense impact of health donations, the far-reaching effects they have on individuals and communities, and how they serve as a beacon of healing and compassion in a world marked by health inequalities.",
       "Price": 30,
       "id": 7
     },
@@ -83,7 +83,7 @@
       "Category_bg_Color": "#facd18d6",
       "Card_bg_Color": "#F7DC6F",
       "Text_Button_bg_Color": "#9e7f03",
-      "Description": "Stay fashionable with this elegant women's dress.",
+      "Description": "Clothing is more than just fabric; it is a fundamental human need that provides warmth, dignity, and self-expression. Yet, millions of people worldwide struggle to access adequate clothing. This stark reality highlights the profound significance of clothing donations, a compassionate practice that not only addresses basic needs but also restores a sense of dignity and belonging. In this comprehensive exploration, we will delve into the immense impact of clothing donations, their far-reaching effects on individuals and communities, and how they serve as a source of warmth, comfort, and hope in a world marked by clothing disparities.",
       "Price": 25,
       "id": 8
     },
@@ -94,7 +94,7 @@
       "Category_bg_Color": "#0052ff78",
       "Card_bg_Color": "#0052FF26",
       "Text_Button_bg_Color": "#023cb6",
-      "Description": "Help provide essential school supplies to underprivileged students.",
+      "Description": "There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
       "Price": 15,
       "id": 9
     },
@@ -103,9 +103,9 @@
       "Title": "Feeding the Hungry",
       "Category": "Food",
       "Category_bg_Color": "#ff5733d1",
-      "Card_bg_Color": "#ff55339e",
+      "Card_bg_Color": "#ff9681ad",
       "Text_Button_bg_Color": "#d22401",
-      "Description": "Support food banks and provide meals to those in need.",
+      "Description": "Food is a basic human necessity, yet millions of people around the world go to bed hungry every night. This stark reality underscores the importance of food donation, a compassionate and impactful practice that addresses hunger and food insecurity. In this comprehensive exploration, we'll delve into the profound significance of food donation, its far-reaching effects on individuals and communities, and how it serves as a beacon of hope for a better, more equitable world.",
       "Price": 20,
       "id": 10
     },
@@ -116,7 +116,7 @@
       "Category_bg_Color": "#fa943dc2",
       "Card_bg_Color": "#F5CBA7",
       "Text_Button_bg_Color": "#9d6d44",
-      "Description": "Contribute to medical research to find cures and treatments for diseases.",
+      "Description": "Health is a universal human right, yet millions of individuals worldwide lack access to adequate healthcare. This poignant reality underscores the profound significance of health donations, a benevolent practice that plays a vital role in addressing medical disparities and bringing hope to those in need. In this comprehensive exploration, we will delve into the immense impact of health donations, the far-reaching effects they have on individuals and communities, and how they serve as a beacon of healing and compassion in a world marked by health inequalities.",
       "Price": 30,
       "id": 11
     },
@@ -127,7 +127,7 @@
       "Category_bg_Color": "#facd18d6",
       "Card_bg_Color": "#F7DC6F",
       "Text_Button_bg_Color": "#9e7f03",
-      "Description": "Stay fashionable with this elegant women's dress.",
+      "Description": "Clothing is more than just fabric; it is a fundamental human need that provides warmth, dignity, and self-expression. Yet, millions of people worldwide struggle to access adequate clothing. This stark reality highlights the profound significance of clothing donations, a compassionate practice that not only addresses basic needs but also restores a sense of dignity and belonging. In this comprehensive exploration, we will delve into the immense impact of clothing donations, their far-reaching effects on individuals and communities, and how they serve as a source of warmth, comfort, and hope in a world marked by clothing disparities.",
       "Price": 25,
       "id": 12
     }

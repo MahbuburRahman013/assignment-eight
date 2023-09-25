@@ -37,7 +37,7 @@ const CardDetails = () => {
             <div className='absolute flex items-center bottom-0 h-20 w-full bg-[#2c2d2f80]'><button onClick={()=>addToLocalStr(findData)} className='text-white ml-6 rounded-lg text-2xl font-bold py-1 px-3' style={{backgroundColor:Text_Button_bg_Color}}>Donate ${Price}</button></div>
           </div>
 
-          <div>
+          <div className='mb-10'>
             <p className='text-4xl my-4 font-bold'>{Title}</p>
             <p className='text-gray-500'>{Description}</p>
           </div>
