@@ -28,11 +28,11 @@ const DonationCards = () => {
     return (
         <div>
            <div>
-           <div className="w-full h-[80vh]">
-                <img className="w-full h-full" src='https://rb.gy/vswhh' alt="" />
+           <div className="w-full flex justify-center items-center h-[80vh] bg-[url('https://rb.gy/bd2qg')]">
+                {/* <img className="w-full h-full" src='https://rb.gy/vswhh' alt="" /> */}
                
-                 <div className="absolute top-56 right-[20%]">
-                 <h1 className="text-5xl font-bold">I Grow By Helping People In Need</h1>
+                 <div>
+                 <h1 className="text-5xl font-bold text-center">I Grow By Helping People In Need</h1>
                
                 <div className="w-[40vw] h-12 my-7 mx-auto">
                 <input value={searchInput} onChange={handleSearchInputChange} className="w-[90%] h-full rounded-s-lg" type="text" />
