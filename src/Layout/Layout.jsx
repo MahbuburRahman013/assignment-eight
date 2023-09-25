@@ -4,7 +4,7 @@ const Layout = () => {
     return (
         <div>
             
-            <div className="container left-9 fixed"><Header></Header></div>
+            <div className="container mx-auto left-9"><Header></Header></div>
             <Outlet></Outlet>
         </div>
     );

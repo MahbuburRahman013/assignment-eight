@@ -1,4 +1,5 @@
-
+import { ToastContainer, toast } from 'react-toastify';
+  import 'react-toastify/dist/ReactToastify.css';
 
 import {useParams,useLoaderData} from 'react-router-dom'
 const CardDetails = () => {
@@ -13,17 +14,21 @@ const CardDetails = () => {
       const getToLocal = localStorage.getItem('data')
       const getToLocalParse = JSON.parse(getToLocal);
       if(getToLocalParse){
+        toast("Wow so easy!");
           localStorage.setItem('data',JSON.stringify([...getToLocalParse,findData]))
       }else{
+        toast("Wow so easy!");
         localStorage.setItem('data',JSON.stringify([findData]));
       }
+      
    }
 
 
     return (
         <div className='container mx-auto'>
+          <ToastContainer />
           <div className='relative'>
-            <img className='pt-24 w-full mx-auto h-[90vh]' src={Picture} alt="" />
+            <img className='mt-5 w-full mx-auto h-[90vh]' src={Picture} alt="" />
             <div className='absolute flex items-center bottom-0 h-20 w-full bg-[#2c2d2f80]'><button onClick={()=>addToLocalStr(findData)} className='text-white ml-6 rounded-lg text-2xl font-bold py-1 px-3' style={{backgroundColor:Text_Button_bg_Color}}>Donate ${Price}</button></div>
           </div>
 

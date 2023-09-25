@@ -4,7 +4,7 @@ const Banner = () => {
     return (
         <div>
             <div>
-            <div className="w-full h-[80vh]">
+            <div className="w-full h-[80vh] ">
                 <img className="w-full h-full" src='https://rb.gy/vswhh' alt="" />
                
                  <div className="absolute top-56 right-[20%]">
