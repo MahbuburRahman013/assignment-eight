@@ -10,10 +10,12 @@ import Layout from './Layout/Layout';
 import CardDetails from './CardDetails';
 import Donation from './Donation';
 import PieChart from './PieChart';
+import ErrorPage from './ErrorPage';
 const router = createBrowserRouter([
   {
     path: "/",
     element: <Layout></Layout>,
+    errorElement:<ErrorPage></ErrorPage>,
     children: [
       {
         path:'/',
