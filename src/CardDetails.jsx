@@ -14,10 +14,15 @@ const CardDetails = () => {
       const getToLocal = localStorage.getItem('data')
       const getToLocalParse = JSON.parse(getToLocal);
       if(getToLocalParse){
-        toast("Wow so easy!");
+        const dataNoAdd = getToLocalParse.find(dataNew=> dataNew.id === findData.id)
+        if(!dataNoAdd){
+        toast("Added Donation!!");
           localStorage.setItem('data',JSON.stringify([...getToLocalParse,findData]))
+        }else{
+          toast("Already added this Donation!!");
+        }
       }else{
-        toast("Wow so easy!");
+        toast("Added Donation!!");
         localStorage.setItem('data',JSON.stringify([findData]));
       }
       
