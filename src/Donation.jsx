@@ -42,7 +42,7 @@ const Donation = () => {
           }
           </div>
         ) : (
-          <div className="flex justify-center items-center mt-52 text-4xl font-semibold">no content</div>
+          <div className="flex justify-center items-center mt-52 text-4xl font-semibold">No Donation Card.</div>
         )}
       </div>
     </div>

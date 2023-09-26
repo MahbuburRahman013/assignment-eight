@@ -29,12 +29,12 @@ const DonationCards = () => {
         <div>
            <div>
            <div className="w-full md:h-[90vh] bg-gradient-to-tr from-slate-100 to-slate-100 ">
-                <img className="w-full mix-blend-overlay object-cover h-full" src='https://rb.gy/bd2qg' alt="" />
+                <img className="w-full mix-blend-overlay object-cover h-full" src='https://rb.gy/bd2qg' alt=""/> 
                
-                 <div className="absolute  lg:top-[40%] right-6 top-[35%] lg:right-72">
+                 <div className="absolute right-0 left-0 top-36 md:top-[40vh] lg:top-[45vh] mx-auto">
                  <h1 className="md:text-5xl text-xl font-bold text-center">I Grow By Helping People In Need</h1>
                
-                <div className="md:w-[40vw] w-[70vw] h-8 md:h-12 my-7 mx-auto">
+                <div className="md:w-[40vw] w-[70vw] h-8 md:h-12 md:my-7 mx-auto">
                 <input value={searchInput} onChange={handleSearchInputChange} className="w-[80%] h-full rounded-s-lg" type="text" />
                <button onClick={handleSearchButtonClick} className="w-[20%] h-full rounded-e-lg text-white md:font-semibold bg-red-400">Search</button>
                 </div>
@@ -52,7 +52,7 @@ const DonationCards = () => {
                     }
                 </div>:
                 
-                <div className="grid grid-cols-4 my-10 container mx-auto gap-6 ">
+                <div className="grid grid-cols-1 md:grid-cols-2 px-4 lg:px-0 lg:grid-cols-4 my-10 container mx-auto gap-6">
                     {
                         filteredData.map((card,index)=> <CardDonate key={index} card={card}></CardDonate>)
                     }
