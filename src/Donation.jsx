@@ -37,7 +37,7 @@ const Donation = () => {
             </div>
            { data.length > 4 ?
             <div  className="flex justify-center mt-9">
-            <button onClick={()=>setIsTrue(!isTrue)} className="bg-purple-600 text-white py-2 px-5 rounded-md">{isTrue? 'See All' : 'See less'}</button>
+            <button onClick={()=>setIsTrue(!isTrue)} className={`bg-purple-600 text-white py-2 px-5 rounded-md ${isTrue? 'block':'hidden'}`}>See All</button>
             </div>: ''
           }
           </div>
