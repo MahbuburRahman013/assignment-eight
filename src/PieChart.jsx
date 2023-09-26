@@ -18,7 +18,7 @@ const PieChart = () => {
     
 
     return (
-        <div className="flex justify-center container mx-auto items-center">
+        <div className="flex justify-center h-[80vh] container mx-auto items-center">
             <div className="w-full h-full">
             <Chart  type='pie'
             width='100%'
